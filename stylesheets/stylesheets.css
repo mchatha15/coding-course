@@ -1,0 +1,30 @@
+      li {
+        color: red;
+      }
+      p {
+        background-color: red;
+        color: white;
+      }
+      img {
+        height: 300px;
+        margin-left: 120px;
+      }
+      ol {
+          border: 2px solid pink;
+      }
+
+      .orange{
+        color: orange;
+      }
+
+      .purple{
+        color: purple;
+      }
+
+      .white{
+        color: white;
+      }
+
+      #flex-div{
+        display: flex;
+      }
